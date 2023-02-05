@@ -1,6 +1,7 @@
 [
     {
-        "平台":"tianlala",
-        "状态":"True"
+        "tianlala": {
+            "code001": "True"
+        }
     }
 ]
